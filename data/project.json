@@ -1,6 +1,5 @@
 {
   "datasets": [
-    "FIBSEM_Covid19-S4-Area1",
     "FIBSEM_Covid19-S4-Area2",
     "FIBSEM_Covid19-S4-Area3",
     "FIBSEM_Covid19-S4-cell1plus_5nm",

@@ -1,9 +1,9 @@
 {
   "datasets": [
     "FIBSEM_Covid19-S4-Area2",
-    "FIBSEM_Covid19-S4-Area3",
-    "FIBSEM_Covid19-S4-cell1plus_5nm",
-    "FIBSEM_Covid19-S5-mock-Cell1-2"
+    "FIBSEM_Covid19-S5-mock-Cell1-2",
+    "FIBSEM_sponge-cell1",
+    "FIBSEM_sponge-cell2"
   ],
   "defaultDataset": "FIBSEM_Covid19-S5-mock-Cell1-2",
   "specVersion": "0.3.0"
